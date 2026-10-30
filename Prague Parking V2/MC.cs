@@ -1,6 +1,6 @@
 ﻿public class MC : Fordon
 {
-    public MC(string regnummer) : base(regnummer)
+    public MC(string registreringsnummer) : base(registreringsnummer)
     {
     }
 }

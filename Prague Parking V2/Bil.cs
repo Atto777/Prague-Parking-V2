@@ -1,6 +1,6 @@
 ﻿public class Bil : Fordon
 {
-    public Bil(string regnummer) : base(regnummer)
+    public Bil(string registreringsnummer) : base(registreringsnummer)
     {
     }
 }

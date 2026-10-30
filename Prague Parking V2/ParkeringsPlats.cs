@@ -4,36 +4,39 @@
 
     public List<Fordon> Fordon { get; set; }
 
-    public ParkeringsPlats(int nummer)
+    public ParkeringsPlats(int platsnummer)
     {
-        Platsnummer = nummer;
+        Platsnummer = platsnummer;
         Fordon = new List<Fordon>();
     }
 
-
-    public bool FinnsPlats(Fordon nyttFordon)
+    public bool FinnsPlats(Fordon nyttFordon, int maxBilar = 1, int maxMC = 2)
     {
         if (Fordon.Count == 0)
         {
             return true;
         }
-        if (nyttFordon is MC && Fordon.Count == 1 && Fordon[0] is MC)
+
+        if (nyttFordon is MC && Fordon[0] is MC)
         {
-            return true;
+            return Fordon.Count < maxMC;
         }
+
         return false;
     }
-public bool LaggTill(Fordon nyttFordon)
+
+    public bool LaggTill(Fordon nyttFordon, int maxMC = 2)
     {
-        if (FinnsPlats(nyttFordon))
+        if (FinnsPlats(nyttFordon, 1, maxMC))
         {
             Fordon.Add(nyttFordon);
             return true;
         }
-        return false;
-    }   
 
- public bool TaBort(Fordon fordon)
+        return false;
+    }
+
+    public bool TaBort(Fordon fordon)
     {
         return Fordon.Remove(fordon);
     }

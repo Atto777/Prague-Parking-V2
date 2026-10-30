@@ -1,11 +1,17 @@
-﻿public class Fordon 
-{
-public string Registreringsnummer { get; set; }
-public DateTime Ankomsttid { get; set; }
+﻿using System.Text.Json.Serialization;
 
-    public Fordon(string regnummer)
+[JsonPolymorphic(TypeDiscriminatorPropertyName = "$type")]
+[JsonDerivedType(typeof(Bil), "bil")]
+[JsonDerivedType(typeof(MC), "mc")]
+
+public class Fordon
+{
+    public string Registreringsnummer { get; set; }
+    public DateTime Ankomsttid { get; set; }
+
+    public Fordon(string registreringsnummer)
     {
-        Registreringsnummer = regnummer;
+        Registreringsnummer = registreringsnummer;
         Ankomsttid = DateTime.Now;
     }
-} 
+}

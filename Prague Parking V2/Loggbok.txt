@@ -1,0 +1,41 @@
+# Loggbok – Prague Parking V2
+
+## Dag 1 – Planering och klasser
+
+Jag började med att läsa uppgiften och planera hur parkeringssystemet skulle byggas med objektorienterad programmering.
+
+Jag skapade klasserna Fordon, Bil, MC, ParkeringsPlats och ParkeringsHus. Bil och MC ärver från Fordon.
+
+Jag använde listor för att hålla reda på parkeringsplatser och fordon.
+
+Jag arbetade sedan med funktioner för att parkera, söka och flytta fordon.
+
+## Dag 2 – Meny och filhantering
+
+Jag fortsatte med att skapa en meny med hjälp av Spectre.Console.
+
+Jag gjorde också en parkeringskarta där man kan se vilka platser som är lediga och upptagna.
+
+Sedan skapade jag ett separat klassbibliotek för filhantering. Jag använde JSON för att spara parkerade fordon så att informationen finns kvar när programmet stängs.
+
+Jag fick problem med att läsa in sparade objekt från JSON-filen. Jag löste det genom att kontrollera konstruktorerna och se till att parametrarna stämde överens med egenskaperna i klasserna.
+
+## Dag 3 – Priser, konfiguration och tester
+
+Jag skapade en konfigurationsfil där man kan ändra antalet parkeringsplatser, priser, gratisminuter och hur många fordon som får stå på en plats.
+
+Jag gjorde en funktion som beräknar parkeringsavgiften och visar ett kvitto när ett fordon hämtas ut.
+
+Jag lade också till ett menyval för att läsa in priserna igen utan att starta om programmet.
+
+Jag testade att parkera två MC på samma plats, flytta fordon, hämta ut fordon och starta om programmet för att kontrollera att informationen sparades.
+
+Jag hade problem med att prisändringen inte syntes direkt. Det berodde på att jag behövde spara rätt konfigurationsfil innan jag laddade om priserna.
+
+Till sist gick jag igenom koden och tog bort onödiga upprepningar.
+
+## Sammanfattning
+
+Under projektet har jag fått öva på klasser, arv, objekt, listor, metoder, JSON och Spectre.Console.
+
+Jag har också lärt mig mer om hur man delar upp ett program i olika klasser och hur man felsöker när något inte fungerar.

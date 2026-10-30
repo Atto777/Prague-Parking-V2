@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Prague Parking V2/Prague Parking V2.csproj" />
+  <Project Path="PragueParking.Filhantering/PragueParking.Filhantering.csproj" Id="a0a76c29-7c63-4d00-a0e2-d773721d41ad" />
 </Solution>

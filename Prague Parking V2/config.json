@@ -1,0 +1,8 @@
+{
+  "AntalPlatser": 100,
+  "PrisBil": 20,
+  "PrisMC": 10,
+  "GratisMinuter": 10,
+  "MaxBilarPerPlats": 1,
+  "MaxMCPerPlats": 2
+}
