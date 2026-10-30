@@ -1,0 +1,494 @@
+[
+  {
+    "Platsnummer": 1,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 2,
+    "Fordon": [
+      {
+        "$type": "bil",
+        "Registreringsnummer": "qwe123",
+        "Ankomsttid": "2026-10-30T15:18:13.9888007+01:00"
+      }
+    ]
+  },
+  {
+    "Platsnummer": 3,
+    "Fordon": [
+      {
+        "$type": "mc",
+        "Registreringsnummer": "def321",
+        "Ankomsttid": "2026-10-30T18:20:48.2221074+01:00"
+      }
+    ]
+  },
+  {
+    "Platsnummer": 4,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 5,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 6,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 7,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 8,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 9,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 10,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 11,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 12,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 13,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 14,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 15,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 16,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 17,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 18,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 19,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 20,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 21,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 22,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 23,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 24,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 25,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 26,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 27,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 28,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 29,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 30,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 31,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 32,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 33,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 34,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 35,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 36,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 37,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 38,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 39,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 40,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 41,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 42,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 43,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 44,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 45,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 46,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 47,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 48,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 49,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 50,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 51,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 52,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 53,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 54,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 55,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 56,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 57,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 58,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 59,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 60,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 61,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 62,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 63,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 64,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 65,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 66,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 67,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 68,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 69,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 70,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 71,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 72,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 73,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 74,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 75,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 76,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 77,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 78,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 79,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 80,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 81,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 82,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 83,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 84,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 85,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 86,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 87,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 88,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 89,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 90,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 91,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 92,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 93,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 94,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 95,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 96,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 97,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 98,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 99,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 100,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 101,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 102,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 103,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 104,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 105,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 106,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 107,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 108,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 109,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 110,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 111,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 112,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 113,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 114,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 115,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 116,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 117,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 118,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 119,
+    "Fordon": []
+  },
+  {
+    "Platsnummer": 120,
+    "Fordon": []
+  }
+]
